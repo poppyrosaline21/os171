@@ -20,3 +20,4 @@ drwxr-xr-x  2 poppy.rosaline StafCS 4096 Feb 17 14:29 week09
 drwxr-xr-x  2 poppy.rosaline StafCS 4096 Feb 17 14:29 week10
 drwxr-xr-x  2 poppy.rosaline StafCS 4096 Feb 17 14:30 xtra
 /home/fasilkom/mahasiswa/p/poppy.rosaline/os171/week01
+Today is 18 Feb 2017 at 10:34:47
