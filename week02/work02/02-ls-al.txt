@@ -1,0 +1,8 @@
+total 24
+drwxr-xr-x   3 poppy.rosaline StafCS 4096 Feb 23 23:50 .
+drwxr-xr-x 134 root           root   4096 Feb 22 16:25 ..
+-rw-r--r--   1 poppy.rosaline StafCS 1612 Feb 23 23:31 00-toc.txt
+-rw-r--r--   1 poppy.rosaline StafCS 3158 Feb 23 23:47 01-public-osteam.txt
+-rw-r--r--   1 poppy.rosaline StafCS    0 Feb 23 23:50 02-ls-al.txt
+-rw-------   1 poppy.rosaline StafCS   37 Feb 23 23:39 .bash_history
+drwx------   2 poppy.rosaline StafCS 4096 Feb 23 23:24 .ssh
